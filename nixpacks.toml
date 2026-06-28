@@ -3,6 +3,3 @@ cmds = ["npm install"]
 
 [start]
 cmd = "node index.js"
-
-[variables]
-PUPPETEER_SKIP_CHROMIUM_DOWNLOAD = "false"
