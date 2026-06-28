@@ -5,5 +5,4 @@ cmds = ["npm install"]
 cmd = "node index.js"
 
 [variables]
-PUPPETEER_SKIP_CHROMIUM_DOWNLOAD = "true"
-PUPPETEER_EXECUTABLE_PATH = "/usr/bin/chromium-browser"
+PUPPETEER_SKIP_CHROMIUM_DOWNLOAD = "false"
